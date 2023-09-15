@@ -1,0 +1,15 @@
+C:\Users\CPHANA03\Cee-Sharp-Projects\ToDoListApp\ToDoListApp\bin\Debug\net6.0\ToDoListApp.exe
+C:\Users\CPHANA03\Cee-Sharp-Projects\ToDoListApp\ToDoListApp\bin\Debug\net6.0\ToDoListApp.deps.json
+C:\Users\CPHANA03\Cee-Sharp-Projects\ToDoListApp\ToDoListApp\bin\Debug\net6.0\ToDoListApp.runtimeconfig.json
+C:\Users\CPHANA03\Cee-Sharp-Projects\ToDoListApp\ToDoListApp\bin\Debug\net6.0\ToDoListApp.dll
+C:\Users\CPHANA03\Cee-Sharp-Projects\ToDoListApp\ToDoListApp\bin\Debug\net6.0\ToDoListApp.pdb
+C:\Users\CPHANA03\Cee-Sharp-Projects\ToDoListApp\ToDoListApp\obj\Debug\net6.0\ToDoListApp.csproj.AssemblyReference.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\ToDoListApp\ToDoListApp\obj\Debug\net6.0\ToDoListApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CPHANA03\Cee-Sharp-Projects\ToDoListApp\ToDoListApp\obj\Debug\net6.0\ToDoListApp.AssemblyInfoInputs.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\ToDoListApp\ToDoListApp\obj\Debug\net6.0\ToDoListApp.AssemblyInfo.cs
+C:\Users\CPHANA03\Cee-Sharp-Projects\ToDoListApp\ToDoListApp\obj\Debug\net6.0\ToDoListApp.csproj.CoreCompileInputs.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\ToDoListApp\ToDoListApp\obj\Debug\net6.0\ToDoListApp.dll
+C:\Users\CPHANA03\Cee-Sharp-Projects\ToDoListApp\ToDoListApp\obj\Debug\net6.0\refint\ToDoListApp.dll
+C:\Users\CPHANA03\Cee-Sharp-Projects\ToDoListApp\ToDoListApp\obj\Debug\net6.0\ToDoListApp.pdb
+C:\Users\CPHANA03\Cee-Sharp-Projects\ToDoListApp\ToDoListApp\obj\Debug\net6.0\ToDoListApp.genruntimeconfig.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\ToDoListApp\ToDoListApp\obj\Debug\net6.0\ref\ToDoListApp.dll
