@@ -25,5 +25,12 @@ public class ToDoList
         {
             Console.WriteLine($"{i + 1}. {(tasks[i].IsCompleted ? "[X]" : "[ ]")} {tasks[i].Description}");
         }
+
+        List<String> list = test0();
+    }
+
+    private List<String> test0()
+    {
+        return new List<String>() { "Tester" };
     }
 }

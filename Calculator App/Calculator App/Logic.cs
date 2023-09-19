@@ -2,7 +2,7 @@
 
 class Logic
 {
-    public static void Main()
+    public void Begin()
     {
         Calculator calculator = new Calculator();
 
@@ -49,4 +49,5 @@ class Logic
                 break;
         }
     }
+
 }

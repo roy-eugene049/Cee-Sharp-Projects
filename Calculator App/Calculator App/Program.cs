@@ -1,8 +1,12 @@
 ﻿
 class Program
 {
-    static void Main(string[] args)
+    public static void Main(string[] args)
     {
-        Logic.Main(); 
+        Logic logic = null;
+
+        logic = new Logic();
+
+        logic.Begin(); 
     }
 }
