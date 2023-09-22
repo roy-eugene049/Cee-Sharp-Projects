@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Code Readability", "Code Readability\Code Readability.csproj", "{F966F417-AE44-4D18-998E-04586FA8AAE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F966F417-AE44-4D18-998E-04586FA8AAE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F966F417-AE44-4D18-998E-04586FA8AAE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F966F417-AE44-4D18-998E-04586FA8AAE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F966F417-AE44-4D18-998E-04586FA8AAE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B25B5AD3-9C2F-4965-A2B9-A88F396FBE02}
+	EndGlobalSection
+EndGlobal
