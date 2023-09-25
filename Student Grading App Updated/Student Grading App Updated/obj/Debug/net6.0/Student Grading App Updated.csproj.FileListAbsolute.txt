@@ -1,0 +1,15 @@
+C:\Users\CPHANA03\Cee-Sharp-Projects\Student Grading App Updated\Student Grading App Updated\bin\Debug\net6.0\Student Grading App Updated.exe
+C:\Users\CPHANA03\Cee-Sharp-Projects\Student Grading App Updated\Student Grading App Updated\bin\Debug\net6.0\Student Grading App Updated.deps.json
+C:\Users\CPHANA03\Cee-Sharp-Projects\Student Grading App Updated\Student Grading App Updated\bin\Debug\net6.0\Student Grading App Updated.runtimeconfig.json
+C:\Users\CPHANA03\Cee-Sharp-Projects\Student Grading App Updated\Student Grading App Updated\bin\Debug\net6.0\Student Grading App Updated.dll
+C:\Users\CPHANA03\Cee-Sharp-Projects\Student Grading App Updated\Student Grading App Updated\bin\Debug\net6.0\Student Grading App Updated.pdb
+C:\Users\CPHANA03\Cee-Sharp-Projects\Student Grading App Updated\Student Grading App Updated\obj\Debug\net6.0\Student Grading App Updated.csproj.AssemblyReference.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\Student Grading App Updated\Student Grading App Updated\obj\Debug\net6.0\Student Grading App Updated.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CPHANA03\Cee-Sharp-Projects\Student Grading App Updated\Student Grading App Updated\obj\Debug\net6.0\Student Grading App Updated.AssemblyInfoInputs.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\Student Grading App Updated\Student Grading App Updated\obj\Debug\net6.0\Student Grading App Updated.AssemblyInfo.cs
+C:\Users\CPHANA03\Cee-Sharp-Projects\Student Grading App Updated\Student Grading App Updated\obj\Debug\net6.0\Student Grading App Updated.csproj.CoreCompileInputs.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\Student Grading App Updated\Student Grading App Updated\obj\Debug\net6.0\Student Grading App Updated.dll
+C:\Users\CPHANA03\Cee-Sharp-Projects\Student Grading App Updated\Student Grading App Updated\obj\Debug\net6.0\refint\Student Grading App Updated.dll
+C:\Users\CPHANA03\Cee-Sharp-Projects\Student Grading App Updated\Student Grading App Updated\obj\Debug\net6.0\Student Grading App Updated.pdb
+C:\Users\CPHANA03\Cee-Sharp-Projects\Student Grading App Updated\Student Grading App Updated\obj\Debug\net6.0\Student Grading App Updated.genruntimeconfig.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\Student Grading App Updated\Student Grading App Updated\obj\Debug\net6.0\ref\Student Grading App Updated.dll
