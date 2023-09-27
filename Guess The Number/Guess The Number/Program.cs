@@ -35,7 +35,7 @@ class Program
                 if (userGuess == secretNumber)
                 {
                     Console.WriteLine("........................................ \n");
-                    Console.WriteLine($"Congratulations {userName}! You guessed the corect number in {numberOfGuesses} guesses! \n");
+                    Console.WriteLine($"Congratulations {userName}! You guessed the correct number in {numberOfGuesses} guesses! \n");
                     break;
                 }
                 else if (userGuess < secretNumber)
