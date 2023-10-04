@@ -1,0 +1,14 @@
+C:\Users\CPHANA03\Cee-Sharp-Projects\Coin Flip Challenge\Coin Flip Challenge\bin\Debug\net6.0\Coin Flip Challenge.exe
+C:\Users\CPHANA03\Cee-Sharp-Projects\Coin Flip Challenge\Coin Flip Challenge\bin\Debug\net6.0\Coin Flip Challenge.deps.json
+C:\Users\CPHANA03\Cee-Sharp-Projects\Coin Flip Challenge\Coin Flip Challenge\bin\Debug\net6.0\Coin Flip Challenge.runtimeconfig.json
+C:\Users\CPHANA03\Cee-Sharp-Projects\Coin Flip Challenge\Coin Flip Challenge\bin\Debug\net6.0\Coin Flip Challenge.dll
+C:\Users\CPHANA03\Cee-Sharp-Projects\Coin Flip Challenge\Coin Flip Challenge\bin\Debug\net6.0\Coin Flip Challenge.pdb
+C:\Users\CPHANA03\Cee-Sharp-Projects\Coin Flip Challenge\Coin Flip Challenge\obj\Debug\net6.0\Coin Flip Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CPHANA03\Cee-Sharp-Projects\Coin Flip Challenge\Coin Flip Challenge\obj\Debug\net6.0\Coin Flip Challenge.AssemblyInfoInputs.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\Coin Flip Challenge\Coin Flip Challenge\obj\Debug\net6.0\Coin Flip Challenge.AssemblyInfo.cs
+C:\Users\CPHANA03\Cee-Sharp-Projects\Coin Flip Challenge\Coin Flip Challenge\obj\Debug\net6.0\Coin Flip Challenge.csproj.CoreCompileInputs.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\Coin Flip Challenge\Coin Flip Challenge\obj\Debug\net6.0\Coin Flip Challenge.dll
+C:\Users\CPHANA03\Cee-Sharp-Projects\Coin Flip Challenge\Coin Flip Challenge\obj\Debug\net6.0\refint\Coin Flip Challenge.dll
+C:\Users\CPHANA03\Cee-Sharp-Projects\Coin Flip Challenge\Coin Flip Challenge\obj\Debug\net6.0\Coin Flip Challenge.pdb
+C:\Users\CPHANA03\Cee-Sharp-Projects\Coin Flip Challenge\Coin Flip Challenge\obj\Debug\net6.0\Coin Flip Challenge.genruntimeconfig.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\Coin Flip Challenge\Coin Flip Challenge\obj\Debug\net6.0\ref\Coin Flip Challenge.dll
