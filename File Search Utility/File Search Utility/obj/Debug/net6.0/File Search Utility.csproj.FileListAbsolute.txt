@@ -1,0 +1,14 @@
+C:\Users\CPHANA03\Cee-Sharp-Projects\File Search Utility\File Search Utility\bin\Debug\net6.0\File Search Utility.exe
+C:\Users\CPHANA03\Cee-Sharp-Projects\File Search Utility\File Search Utility\bin\Debug\net6.0\File Search Utility.deps.json
+C:\Users\CPHANA03\Cee-Sharp-Projects\File Search Utility\File Search Utility\bin\Debug\net6.0\File Search Utility.runtimeconfig.json
+C:\Users\CPHANA03\Cee-Sharp-Projects\File Search Utility\File Search Utility\bin\Debug\net6.0\File Search Utility.dll
+C:\Users\CPHANA03\Cee-Sharp-Projects\File Search Utility\File Search Utility\bin\Debug\net6.0\File Search Utility.pdb
+C:\Users\CPHANA03\Cee-Sharp-Projects\File Search Utility\File Search Utility\obj\Debug\net6.0\File Search Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CPHANA03\Cee-Sharp-Projects\File Search Utility\File Search Utility\obj\Debug\net6.0\File Search Utility.AssemblyInfoInputs.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\File Search Utility\File Search Utility\obj\Debug\net6.0\File Search Utility.AssemblyInfo.cs
+C:\Users\CPHANA03\Cee-Sharp-Projects\File Search Utility\File Search Utility\obj\Debug\net6.0\File Search Utility.csproj.CoreCompileInputs.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\File Search Utility\File Search Utility\obj\Debug\net6.0\File Search Utility.dll
+C:\Users\CPHANA03\Cee-Sharp-Projects\File Search Utility\File Search Utility\obj\Debug\net6.0\refint\File Search Utility.dll
+C:\Users\CPHANA03\Cee-Sharp-Projects\File Search Utility\File Search Utility\obj\Debug\net6.0\File Search Utility.pdb
+C:\Users\CPHANA03\Cee-Sharp-Projects\File Search Utility\File Search Utility\obj\Debug\net6.0\File Search Utility.genruntimeconfig.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\File Search Utility\File Search Utility\obj\Debug\net6.0\ref\File Search Utility.dll
