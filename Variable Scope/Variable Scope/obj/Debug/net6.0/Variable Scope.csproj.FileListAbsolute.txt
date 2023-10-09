@@ -1,0 +1,14 @@
+C:\Users\royod\OneDrive\Documents\Cee Sharp Practice\Variable Scope\Variable Scope\bin\Debug\net6.0\Variable Scope.exe
+C:\Users\royod\OneDrive\Documents\Cee Sharp Practice\Variable Scope\Variable Scope\bin\Debug\net6.0\Variable Scope.deps.json
+C:\Users\royod\OneDrive\Documents\Cee Sharp Practice\Variable Scope\Variable Scope\bin\Debug\net6.0\Variable Scope.runtimeconfig.json
+C:\Users\royod\OneDrive\Documents\Cee Sharp Practice\Variable Scope\Variable Scope\bin\Debug\net6.0\Variable Scope.dll
+C:\Users\royod\OneDrive\Documents\Cee Sharp Practice\Variable Scope\Variable Scope\bin\Debug\net6.0\Variable Scope.pdb
+C:\Users\royod\OneDrive\Documents\Cee Sharp Practice\Variable Scope\Variable Scope\obj\Debug\net6.0\Variable Scope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\royod\OneDrive\Documents\Cee Sharp Practice\Variable Scope\Variable Scope\obj\Debug\net6.0\Variable Scope.AssemblyInfoInputs.cache
+C:\Users\royod\OneDrive\Documents\Cee Sharp Practice\Variable Scope\Variable Scope\obj\Debug\net6.0\Variable Scope.AssemblyInfo.cs
+C:\Users\royod\OneDrive\Documents\Cee Sharp Practice\Variable Scope\Variable Scope\obj\Debug\net6.0\Variable Scope.csproj.CoreCompileInputs.cache
+C:\Users\royod\OneDrive\Documents\Cee Sharp Practice\Variable Scope\Variable Scope\obj\Debug\net6.0\Variable Scope.dll
+C:\Users\royod\OneDrive\Documents\Cee Sharp Practice\Variable Scope\Variable Scope\obj\Debug\net6.0\refint\Variable Scope.dll
+C:\Users\royod\OneDrive\Documents\Cee Sharp Practice\Variable Scope\Variable Scope\obj\Debug\net6.0\Variable Scope.pdb
+C:\Users\royod\OneDrive\Documents\Cee Sharp Practice\Variable Scope\Variable Scope\obj\Debug\net6.0\Variable Scope.genruntimeconfig.cache
+C:\Users\royod\OneDrive\Documents\Cee Sharp Practice\Variable Scope\Variable Scope\obj\Debug\net6.0\ref\Variable Scope.dll
