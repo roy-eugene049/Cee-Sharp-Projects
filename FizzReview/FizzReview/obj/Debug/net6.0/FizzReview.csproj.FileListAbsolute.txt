@@ -1,0 +1,5 @@
+C:\Users\CPHANA03\Cee-Sharp-Projects\FizzReview\FizzReview\obj\Debug\net6.0\FizzReview.csproj.AssemblyReference.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\FizzReview\FizzReview\obj\Debug\net6.0\FizzReview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CPHANA03\Cee-Sharp-Projects\FizzReview\FizzReview\obj\Debug\net6.0\FizzReview.AssemblyInfoInputs.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\FizzReview\FizzReview\obj\Debug\net6.0\FizzReview.AssemblyInfo.cs
+C:\Users\CPHANA03\Cee-Sharp-Projects\FizzReview\FizzReview\obj\Debug\net6.0\FizzReview.csproj.CoreCompileInputs.cache
