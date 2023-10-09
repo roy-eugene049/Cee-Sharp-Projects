@@ -1,6 +1,5 @@
 ﻿using HtmlAgilityPack;
 using System;
-using System.Collections.Generic;
 using System.Net;
 
 class Program
@@ -8,26 +7,21 @@ class Program
     static void Main()
     {
         string url = "https://github.com/roy-eugene049"; // Replace with the URL of the website you want to scrape
-        List<string> articleTitles = WebScrape(url);
+        string pageText = WebScrape(url);
 
-        if (articleTitles.Count > 0)
+        if (!string.IsNullOrEmpty(pageText))
         {
-            Console.WriteLine("Article Titles:");
-            foreach (string title in articleTitles)
-            {
-                Console.WriteLine(title);
-            }
+            Console.WriteLine("Page Text:");
+            Console.WriteLine(pageText);
         }
         else
         {
-            Console.WriteLine("No article titles were found.");
+            Console.WriteLine("No text was found on the page.");
         }
     }
 
-    static List<string> WebScrape(string url)
+    static string WebScrape(string url)
     {
-        List<string> articleTitles = new List<string>();
-
         try
         {
             // Create an HtmlWeb object
@@ -36,23 +30,15 @@ class Program
             // Download the webpage content
             var doc = web.Load(url);
 
-            // Use XPath to select elements with specific attributes
-            var nodes = doc.DocumentNode.SelectNodes("//h2[@class='article-title']");
+            // Extract all text content from the page
+            string pageText = WebUtility.HtmlDecode(doc.DocumentNode.InnerText.Trim());
 
-            if (nodes != null)
-            {
-                foreach (var node in nodes)
-                {
-                    // Extract and store the text content of selected elements
-                    articleTitles.Add(WebUtility.HtmlDecode(node.InnerText.Trim()));
-                }
-            }
+            return pageText;
         }
         catch (Exception e)
         {
             Console.WriteLine($"An error occurred: {e.Message}");
+            return null;
         }
-
-        return articleTitles;
     }
 }
