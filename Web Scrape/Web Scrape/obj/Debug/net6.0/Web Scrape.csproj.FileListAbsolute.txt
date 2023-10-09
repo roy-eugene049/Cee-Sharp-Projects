@@ -1,0 +1,17 @@
+C:\Users\CPHANA03\Cee-Sharp-Projects\Web Scrape\Web Scrape\bin\Debug\net6.0\Web Scrape.exe
+C:\Users\CPHANA03\Cee-Sharp-Projects\Web Scrape\Web Scrape\bin\Debug\net6.0\Web Scrape.deps.json
+C:\Users\CPHANA03\Cee-Sharp-Projects\Web Scrape\Web Scrape\bin\Debug\net6.0\Web Scrape.runtimeconfig.json
+C:\Users\CPHANA03\Cee-Sharp-Projects\Web Scrape\Web Scrape\bin\Debug\net6.0\Web Scrape.dll
+C:\Users\CPHANA03\Cee-Sharp-Projects\Web Scrape\Web Scrape\bin\Debug\net6.0\Web Scrape.pdb
+C:\Users\CPHANA03\Cee-Sharp-Projects\Web Scrape\Web Scrape\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\CPHANA03\Cee-Sharp-Projects\Web Scrape\Web Scrape\obj\Debug\net6.0\Web Scrape.csproj.AssemblyReference.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\Web Scrape\Web Scrape\obj\Debug\net6.0\Web Scrape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CPHANA03\Cee-Sharp-Projects\Web Scrape\Web Scrape\obj\Debug\net6.0\Web Scrape.AssemblyInfoInputs.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\Web Scrape\Web Scrape\obj\Debug\net6.0\Web Scrape.AssemblyInfo.cs
+C:\Users\CPHANA03\Cee-Sharp-Projects\Web Scrape\Web Scrape\obj\Debug\net6.0\Web Scrape.csproj.CoreCompileInputs.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\Web Scrape\Web Scrape\obj\Debug\net6.0\Web Scrape.csproj.CopyComplete
+C:\Users\CPHANA03\Cee-Sharp-Projects\Web Scrape\Web Scrape\obj\Debug\net6.0\Web Scrape.dll
+C:\Users\CPHANA03\Cee-Sharp-Projects\Web Scrape\Web Scrape\obj\Debug\net6.0\refint\Web Scrape.dll
+C:\Users\CPHANA03\Cee-Sharp-Projects\Web Scrape\Web Scrape\obj\Debug\net6.0\Web Scrape.pdb
+C:\Users\CPHANA03\Cee-Sharp-Projects\Web Scrape\Web Scrape\obj\Debug\net6.0\Web Scrape.genruntimeconfig.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\Web Scrape\Web Scrape\obj\Debug\net6.0\ref\Web Scrape.dll

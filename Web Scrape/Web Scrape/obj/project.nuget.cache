@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hhKt3SbUJhKHgEzZn4joQkiTyeQOM0hNoQhU5hUk1SXzZDPERTzjfWHGkXnkT5fgEU1a6ezFndUHy+L7BVIIeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CPHANA03\\Cee-Sharp-Projects\\Web Scrape\\Web Scrape\\Web Scrape.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\royod\\.nuget\\packages\\htmlagilitypack\\1.11.54\\htmlagilitypack.1.11.54.nupkg.sha512"
+  ],
+  "logs": []
+}
