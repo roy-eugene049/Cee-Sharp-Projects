@@ -1,0 +1,14 @@
+C:\Users\CPHANA03\Cee-Sharp-Projects\Bool Expressions Challenge\Bool Expressions Challenge\bin\Debug\net6.0\Bool Expressions Challenge.exe
+C:\Users\CPHANA03\Cee-Sharp-Projects\Bool Expressions Challenge\Bool Expressions Challenge\bin\Debug\net6.0\Bool Expressions Challenge.deps.json
+C:\Users\CPHANA03\Cee-Sharp-Projects\Bool Expressions Challenge\Bool Expressions Challenge\bin\Debug\net6.0\Bool Expressions Challenge.runtimeconfig.json
+C:\Users\CPHANA03\Cee-Sharp-Projects\Bool Expressions Challenge\Bool Expressions Challenge\bin\Debug\net6.0\Bool Expressions Challenge.dll
+C:\Users\CPHANA03\Cee-Sharp-Projects\Bool Expressions Challenge\Bool Expressions Challenge\bin\Debug\net6.0\Bool Expressions Challenge.pdb
+C:\Users\CPHANA03\Cee-Sharp-Projects\Bool Expressions Challenge\Bool Expressions Challenge\obj\Debug\net6.0\Bool Expressions Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CPHANA03\Cee-Sharp-Projects\Bool Expressions Challenge\Bool Expressions Challenge\obj\Debug\net6.0\Bool Expressions Challenge.AssemblyInfoInputs.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\Bool Expressions Challenge\Bool Expressions Challenge\obj\Debug\net6.0\Bool Expressions Challenge.AssemblyInfo.cs
+C:\Users\CPHANA03\Cee-Sharp-Projects\Bool Expressions Challenge\Bool Expressions Challenge\obj\Debug\net6.0\Bool Expressions Challenge.csproj.CoreCompileInputs.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\Bool Expressions Challenge\Bool Expressions Challenge\obj\Debug\net6.0\Bool Expressions Challenge.dll
+C:\Users\CPHANA03\Cee-Sharp-Projects\Bool Expressions Challenge\Bool Expressions Challenge\obj\Debug\net6.0\refint\Bool Expressions Challenge.dll
+C:\Users\CPHANA03\Cee-Sharp-Projects\Bool Expressions Challenge\Bool Expressions Challenge\obj\Debug\net6.0\Bool Expressions Challenge.pdb
+C:\Users\CPHANA03\Cee-Sharp-Projects\Bool Expressions Challenge\Bool Expressions Challenge\obj\Debug\net6.0\Bool Expressions Challenge.genruntimeconfig.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\Bool Expressions Challenge\Bool Expressions Challenge\obj\Debug\net6.0\ref\Bool Expressions Challenge.dll
