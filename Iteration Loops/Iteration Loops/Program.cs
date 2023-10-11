@@ -56,7 +56,7 @@ class Program
         for (int i = 0; i < names.Length; i++)
             if (names[i] == "David") names[i] = "Sammy";
 
-        //Same code with the normal code clock structure
+        //Same code with the normal code block structure
         string[] names = { "Sammy", "Dodhia", "Vuzi", "Kanyuto" };
 
         for (int i = 0; i < names.Length; i++)
