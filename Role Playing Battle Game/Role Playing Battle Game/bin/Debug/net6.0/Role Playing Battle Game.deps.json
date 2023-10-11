@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Role Playing Battle Game/1.0.0": {
+        "runtime": {
+          "Role Playing Battle Game.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Role Playing Battle Game/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

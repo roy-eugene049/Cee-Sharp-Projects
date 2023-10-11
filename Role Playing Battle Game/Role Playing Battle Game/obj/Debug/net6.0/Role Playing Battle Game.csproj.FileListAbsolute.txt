@@ -1,0 +1,14 @@
+C:\Users\CPHANA03\Cee-Sharp-Projects\Role Playing Battle Game\Role Playing Battle Game\bin\Debug\net6.0\Role Playing Battle Game.exe
+C:\Users\CPHANA03\Cee-Sharp-Projects\Role Playing Battle Game\Role Playing Battle Game\bin\Debug\net6.0\Role Playing Battle Game.deps.json
+C:\Users\CPHANA03\Cee-Sharp-Projects\Role Playing Battle Game\Role Playing Battle Game\bin\Debug\net6.0\Role Playing Battle Game.runtimeconfig.json
+C:\Users\CPHANA03\Cee-Sharp-Projects\Role Playing Battle Game\Role Playing Battle Game\bin\Debug\net6.0\Role Playing Battle Game.dll
+C:\Users\CPHANA03\Cee-Sharp-Projects\Role Playing Battle Game\Role Playing Battle Game\bin\Debug\net6.0\Role Playing Battle Game.pdb
+C:\Users\CPHANA03\Cee-Sharp-Projects\Role Playing Battle Game\Role Playing Battle Game\obj\Debug\net6.0\Role Playing Battle Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CPHANA03\Cee-Sharp-Projects\Role Playing Battle Game\Role Playing Battle Game\obj\Debug\net6.0\Role Playing Battle Game.AssemblyInfoInputs.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\Role Playing Battle Game\Role Playing Battle Game\obj\Debug\net6.0\Role Playing Battle Game.AssemblyInfo.cs
+C:\Users\CPHANA03\Cee-Sharp-Projects\Role Playing Battle Game\Role Playing Battle Game\obj\Debug\net6.0\Role Playing Battle Game.csproj.CoreCompileInputs.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\Role Playing Battle Game\Role Playing Battle Game\obj\Debug\net6.0\Role Playing Battle Game.dll
+C:\Users\CPHANA03\Cee-Sharp-Projects\Role Playing Battle Game\Role Playing Battle Game\obj\Debug\net6.0\refint\Role Playing Battle Game.dll
+C:\Users\CPHANA03\Cee-Sharp-Projects\Role Playing Battle Game\Role Playing Battle Game\obj\Debug\net6.0\Role Playing Battle Game.pdb
+C:\Users\CPHANA03\Cee-Sharp-Projects\Role Playing Battle Game\Role Playing Battle Game\obj\Debug\net6.0\Role Playing Battle Game.genruntimeconfig.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\Role Playing Battle Game\Role Playing Battle Game\obj\Debug\net6.0\ref\Role Playing Battle Game.dll
