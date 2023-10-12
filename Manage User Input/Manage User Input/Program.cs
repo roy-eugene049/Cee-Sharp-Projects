@@ -78,32 +78,64 @@ class Program
 
         //Here is the refactored solution:
 
-        string userInput;
-        int number; // Variable to store the parsed integer
+        //string userInput;
+        //int number; // Variable to store the parsed integer
 
-        Console.WriteLine("Enter an integer value between 5 and 10");
+        //Console.WriteLine("Enter an integer value between 5 and 10");
+
+        //do
+        //{
+        //    userInput = Console.ReadLine(); // Read user input as a string
+
+        //    if (int.TryParse(userInput, out number)) // Try to parse the input as an integer
+        //    {
+        //        if (number < 5 || number > 10)
+        //        {
+        //            Console.WriteLine("Sorry, you entered an invalid number, please try again");
+        //        }
+        //        else
+        //        {
+        //            Console.WriteLine($"Your input ({number}) has been accepted");
+        //            break; // Exit the loop when a valid number is provided
+        //        }
+        //    }
+        //    else
+        //    {
+        //        Console.WriteLine("Invalid input. Please enter a valid integer.");
+        //    }
+        //} while (true); // Continue the loop until a valid input is provided
+
+        //Code Project 2: Add code that validates string input
+
+        string? userInput;
+        string[] roles = { "Aministrator", "Manager", "User" };
 
         do
         {
-            userInput = Console.ReadLine(); // Read user input as a string
+            //Get input from user
+            Console.WriteLine("Enter your role name (Aministrator, Manager, or User: ");
+            userInput = Console.ReadLine();
 
-            if (int.TryParse(userInput, out number)) // Try to parse the input as an integer
+            bool isValidInput = false;
+
+            foreach (string role in roles)
             {
-                if (number < 5 || number > 10)
+                if (userInput.Equals(role, StringComparison.OrdinalIgnoreCase))
                 {
-                    Console.WriteLine("Sorry, you entered an invalid number, please try again");
+                    isValidInput = true;
+                    break; //Exit the loop when a match is found
                 }
-                else
-                {
-                    Console.WriteLine($"Your input ({number}) has been accepted");
-                    break; // Exit the loop when a valid number is provided
-                }
+            }
+
+            if (!isValidInput)
+            {
+                Console.WriteLine($"The role that you entered ({userInput}) is not valid. Enter a valid role name (Administrator, Manager, or User)");
             }
             else
             {
-                Console.WriteLine("Invalid input. Please enter a valid integer.");
+                Console.WriteLine($"Your input value ({userInput}) has been accepted");
+                break; //If you want the user to keep playing, remove this break statement
             }
-        } while (true); // Continue the loop until a valid input is provided
-
+        } while (true);
     }
 }
