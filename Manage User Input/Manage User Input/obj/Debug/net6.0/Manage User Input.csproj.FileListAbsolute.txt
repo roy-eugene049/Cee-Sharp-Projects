@@ -1,0 +1,14 @@
+C:\Users\CPHANA03\Cee-Sharp-Projects\Manage User Input\Manage User Input\bin\Debug\net6.0\Manage User Input.exe
+C:\Users\CPHANA03\Cee-Sharp-Projects\Manage User Input\Manage User Input\bin\Debug\net6.0\Manage User Input.deps.json
+C:\Users\CPHANA03\Cee-Sharp-Projects\Manage User Input\Manage User Input\bin\Debug\net6.0\Manage User Input.runtimeconfig.json
+C:\Users\CPHANA03\Cee-Sharp-Projects\Manage User Input\Manage User Input\bin\Debug\net6.0\Manage User Input.dll
+C:\Users\CPHANA03\Cee-Sharp-Projects\Manage User Input\Manage User Input\bin\Debug\net6.0\Manage User Input.pdb
+C:\Users\CPHANA03\Cee-Sharp-Projects\Manage User Input\Manage User Input\obj\Debug\net6.0\Manage User Input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CPHANA03\Cee-Sharp-Projects\Manage User Input\Manage User Input\obj\Debug\net6.0\Manage User Input.AssemblyInfoInputs.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\Manage User Input\Manage User Input\obj\Debug\net6.0\Manage User Input.AssemblyInfo.cs
+C:\Users\CPHANA03\Cee-Sharp-Projects\Manage User Input\Manage User Input\obj\Debug\net6.0\Manage User Input.csproj.CoreCompileInputs.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\Manage User Input\Manage User Input\obj\Debug\net6.0\Manage User Input.dll
+C:\Users\CPHANA03\Cee-Sharp-Projects\Manage User Input\Manage User Input\obj\Debug\net6.0\refint\Manage User Input.dll
+C:\Users\CPHANA03\Cee-Sharp-Projects\Manage User Input\Manage User Input\obj\Debug\net6.0\Manage User Input.pdb
+C:\Users\CPHANA03\Cee-Sharp-Projects\Manage User Input\Manage User Input\obj\Debug\net6.0\Manage User Input.genruntimeconfig.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\Manage User Input\Manage User Input\obj\Debug\net6.0\ref\Manage User Input.dll
