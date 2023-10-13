@@ -107,35 +107,72 @@ class Program
 
         //Code Project 2: Add code that validates string input
 
-        string? userInput;
-        string[] roles = { "Aministrator", "Manager", "User" };
+        //string? userInput;
+        //string[] roles = { "Aministrator", "Manager", "User" };
 
-        do
+        //do
+        //{
+        //    //Get input from user
+        //    Console.WriteLine("Enter your role name (Aministrator, Manager, or User: ");
+        //    userInput = Console.ReadLine();
+
+        //    bool isValidInput = false;
+
+        //    foreach (string role in roles)
+        //    {
+        //        if (userInput.Equals(role, StringComparison.OrdinalIgnoreCase)) //Ignores case
+        //        {
+        //            isValidInput = true;
+        //            break; //Exit the loop when a match is found
+        //        }
+        //    }
+
+        //    if (!isValidInput)
+        //    {
+        //        Console.WriteLine($"The role that you entered ({userInput}) is not valid. Enter a valid role name (Administrator, Manager, or User)");
+        //    }
+        //    else
+        //    {
+        //        Console.WriteLine($"Your input value ({userInput}) has been accepted");
+        //        break; //If you want the user to keep playing, remove this break statement
+        //    }
+        //} while (true);
+
+
+        string[] myStrings = new string[2] { "I like pizza. I like roast chicken. I like salad", "I like all three of the menu choices" };
+        int stringsCount = myStrings.Length;
+
+        string myString = "";
+        int periodLocation = 0;
+
+        for (int i = 0; i < stringsCount; i++)
         {
-            //Get input from user
-            Console.WriteLine("Enter your role name (Aministrator, Manager, or User: ");
-            userInput = Console.ReadLine();
+            myString = myStrings[i];
+            periodLocation = myString.IndexOf(".");
 
-            bool isValidInput = false;
+            string mySentence;
 
-            foreach (string role in roles)
+            // extract sentences from each string and display them one at a time
+            while (periodLocation != -1)
             {
-                if (userInput.Equals(role, StringComparison.OrdinalIgnoreCase))
-                {
-                    isValidInput = true;
-                    break; //Exit the loop when a match is found
-                }
+
+                // first sentence is the string value to the left of the period location
+                mySentence = myString.Remove(periodLocation);
+
+                // the remainder of myString is the string value to the right of the location
+                myString = myString.Substring(periodLocation + 1);
+
+                // remove any leading white-space from myString
+                myString = myString.TrimStart();
+
+                // update the comma location and increment the counter
+                periodLocation = myString.IndexOf(".");
+
+                Console.WriteLine(mySentence);
             }
 
-            if (!isValidInput)
-            {
-                Console.WriteLine($"The role that you entered ({userInput}) is not valid. Enter a valid role name (Administrator, Manager, or User)");
-            }
-            else
-            {
-                Console.WriteLine($"Your input value ({userInput}) has been accepted");
-                break; //If you want the user to keep playing, remove this break statement
-            }
-        } while (true);
+            mySentence = myString.Trim();
+            Console.WriteLine(mySentence);
+        }
     }
 }
