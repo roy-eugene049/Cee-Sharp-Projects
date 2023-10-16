@@ -113,7 +113,10 @@ if (readResult != null)
             // List all of our current pet information
             for (int i = 0; i < maxPets; i++)
             {
-
+                if (ourAnimals[i, 0] != "ID #: ")
+                {
+                    Console.WriteLine(ourAnimals[i, 0]);
+                }
             }
             Console.WriteLine("Press the enter key to continue.");
             readResult = Console.ReadLine();
