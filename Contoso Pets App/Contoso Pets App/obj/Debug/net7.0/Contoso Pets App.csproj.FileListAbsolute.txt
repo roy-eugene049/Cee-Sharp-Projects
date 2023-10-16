@@ -1,0 +1,14 @@
+C:\Users\CPHANA03\Cee-Sharp-Projects\Contoso Pets App\Contoso Pets App\bin\Debug\net7.0\Contoso Pets App.exe
+C:\Users\CPHANA03\Cee-Sharp-Projects\Contoso Pets App\Contoso Pets App\bin\Debug\net7.0\Contoso Pets App.deps.json
+C:\Users\CPHANA03\Cee-Sharp-Projects\Contoso Pets App\Contoso Pets App\bin\Debug\net7.0\Contoso Pets App.runtimeconfig.json
+C:\Users\CPHANA03\Cee-Sharp-Projects\Contoso Pets App\Contoso Pets App\bin\Debug\net7.0\Contoso Pets App.dll
+C:\Users\CPHANA03\Cee-Sharp-Projects\Contoso Pets App\Contoso Pets App\bin\Debug\net7.0\Contoso Pets App.pdb
+C:\Users\CPHANA03\Cee-Sharp-Projects\Contoso Pets App\Contoso Pets App\obj\Debug\net7.0\Contoso Pets App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CPHANA03\Cee-Sharp-Projects\Contoso Pets App\Contoso Pets App\obj\Debug\net7.0\Contoso Pets App.AssemblyInfoInputs.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\Contoso Pets App\Contoso Pets App\obj\Debug\net7.0\Contoso Pets App.AssemblyInfo.cs
+C:\Users\CPHANA03\Cee-Sharp-Projects\Contoso Pets App\Contoso Pets App\obj\Debug\net7.0\Contoso Pets App.csproj.CoreCompileInputs.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\Contoso Pets App\Contoso Pets App\obj\Debug\net7.0\Contoso Pets App.dll
+C:\Users\CPHANA03\Cee-Sharp-Projects\Contoso Pets App\Contoso Pets App\obj\Debug\net7.0\refint\Contoso Pets App.dll
+C:\Users\CPHANA03\Cee-Sharp-Projects\Contoso Pets App\Contoso Pets App\obj\Debug\net7.0\Contoso Pets App.pdb
+C:\Users\CPHANA03\Cee-Sharp-Projects\Contoso Pets App\Contoso Pets App\obj\Debug\net7.0\Contoso Pets App.genruntimeconfig.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\Contoso Pets App\Contoso Pets App\obj\Debug\net7.0\ref\Contoso Pets App.dll
