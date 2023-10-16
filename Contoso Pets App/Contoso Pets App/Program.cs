@@ -115,7 +115,11 @@ if (readResult != null)
             {
                 if (ourAnimals[i, 0] != "ID #: ")
                 {
-                    Console.WriteLine(ourAnimals[i, 0]);
+                    Console.WriteLine();
+                    for (int j = 0; j < 6; j++)
+                    {
+                        Console.WriteLine(ourAnimals[i, j]);
+                    }
                 }
             }
             Console.WriteLine("Press the enter key to continue.");
