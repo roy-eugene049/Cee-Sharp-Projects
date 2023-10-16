@@ -111,7 +111,10 @@ if (readResult != null)
     {
         case "1":
             // List all of our current pet information
-            Console.WriteLine("this app feature is coming soon - please check back to see progress.");
+            for (int i = 0; i < maxPets; i++)
+            {
+
+            }
             Console.WriteLine("Press the enter key to continue.");
             readResult = Console.ReadLine();
             break;
