@@ -1,0 +1,14 @@
+C:\Users\CPHANA03\Cee-Sharp-Projects\Class and Object Definition\Class and Object Definition\bin\Debug\net6.0\Class and Object Definition.exe
+C:\Users\CPHANA03\Cee-Sharp-Projects\Class and Object Definition\Class and Object Definition\bin\Debug\net6.0\Class and Object Definition.deps.json
+C:\Users\CPHANA03\Cee-Sharp-Projects\Class and Object Definition\Class and Object Definition\bin\Debug\net6.0\Class and Object Definition.runtimeconfig.json
+C:\Users\CPHANA03\Cee-Sharp-Projects\Class and Object Definition\Class and Object Definition\bin\Debug\net6.0\Class and Object Definition.dll
+C:\Users\CPHANA03\Cee-Sharp-Projects\Class and Object Definition\Class and Object Definition\bin\Debug\net6.0\Class and Object Definition.pdb
+C:\Users\CPHANA03\Cee-Sharp-Projects\Class and Object Definition\Class and Object Definition\obj\Debug\net6.0\Class and Object Definition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CPHANA03\Cee-Sharp-Projects\Class and Object Definition\Class and Object Definition\obj\Debug\net6.0\Class and Object Definition.AssemblyInfoInputs.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\Class and Object Definition\Class and Object Definition\obj\Debug\net6.0\Class and Object Definition.AssemblyInfo.cs
+C:\Users\CPHANA03\Cee-Sharp-Projects\Class and Object Definition\Class and Object Definition\obj\Debug\net6.0\Class and Object Definition.csproj.CoreCompileInputs.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\Class and Object Definition\Class and Object Definition\obj\Debug\net6.0\Class and Object Definition.dll
+C:\Users\CPHANA03\Cee-Sharp-Projects\Class and Object Definition\Class and Object Definition\obj\Debug\net6.0\refint\Class and Object Definition.dll
+C:\Users\CPHANA03\Cee-Sharp-Projects\Class and Object Definition\Class and Object Definition\obj\Debug\net6.0\Class and Object Definition.pdb
+C:\Users\CPHANA03\Cee-Sharp-Projects\Class and Object Definition\Class and Object Definition\obj\Debug\net6.0\Class and Object Definition.genruntimeconfig.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\Class and Object Definition\Class and Object Definition\obj\Debug\net6.0\ref\Class and Object Definition.dll
