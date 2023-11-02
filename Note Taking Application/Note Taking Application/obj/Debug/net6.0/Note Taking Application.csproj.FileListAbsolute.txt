@@ -1,0 +1,14 @@
+C:\Users\CPHANA03\Cee-Sharp-Projects\Note Taking Application\Note Taking Application\obj\Debug\net6.0\Note Taking Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CPHANA03\Cee-Sharp-Projects\Note Taking Application\Note Taking Application\obj\Debug\net6.0\Note Taking Application.AssemblyInfoInputs.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\Note Taking Application\Note Taking Application\obj\Debug\net6.0\Note Taking Application.AssemblyInfo.cs
+C:\Users\CPHANA03\Cee-Sharp-Projects\Note Taking Application\Note Taking Application\obj\Debug\net6.0\Note Taking Application.csproj.CoreCompileInputs.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\Note Taking Application\Note Taking Application\bin\Debug\net6.0\Note Taking Application.exe
+C:\Users\CPHANA03\Cee-Sharp-Projects\Note Taking Application\Note Taking Application\bin\Debug\net6.0\Note Taking Application.deps.json
+C:\Users\CPHANA03\Cee-Sharp-Projects\Note Taking Application\Note Taking Application\bin\Debug\net6.0\Note Taking Application.runtimeconfig.json
+C:\Users\CPHANA03\Cee-Sharp-Projects\Note Taking Application\Note Taking Application\bin\Debug\net6.0\Note Taking Application.dll
+C:\Users\CPHANA03\Cee-Sharp-Projects\Note Taking Application\Note Taking Application\bin\Debug\net6.0\Note Taking Application.pdb
+C:\Users\CPHANA03\Cee-Sharp-Projects\Note Taking Application\Note Taking Application\obj\Debug\net6.0\Note Taking Application.dll
+C:\Users\CPHANA03\Cee-Sharp-Projects\Note Taking Application\Note Taking Application\obj\Debug\net6.0\refint\Note Taking Application.dll
+C:\Users\CPHANA03\Cee-Sharp-Projects\Note Taking Application\Note Taking Application\obj\Debug\net6.0\Note Taking Application.pdb
+C:\Users\CPHANA03\Cee-Sharp-Projects\Note Taking Application\Note Taking Application\obj\Debug\net6.0\Note Taking Application.genruntimeconfig.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\Note Taking Application\Note Taking Application\obj\Debug\net6.0\ref\Note Taking Application.dll
