@@ -1,0 +1,14 @@
+C:\Users\CPHANA03\Cee-Sharp-Projects\Classes and Objects\Classes and Objects\bin\Debug\net6.0\Classes and Objects.exe
+C:\Users\CPHANA03\Cee-Sharp-Projects\Classes and Objects\Classes and Objects\bin\Debug\net6.0\Classes and Objects.deps.json
+C:\Users\CPHANA03\Cee-Sharp-Projects\Classes and Objects\Classes and Objects\bin\Debug\net6.0\Classes and Objects.runtimeconfig.json
+C:\Users\CPHANA03\Cee-Sharp-Projects\Classes and Objects\Classes and Objects\bin\Debug\net6.0\Classes and Objects.dll
+C:\Users\CPHANA03\Cee-Sharp-Projects\Classes and Objects\Classes and Objects\bin\Debug\net6.0\Classes and Objects.pdb
+C:\Users\CPHANA03\Cee-Sharp-Projects\Classes and Objects\Classes and Objects\obj\Debug\net6.0\Classes and Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CPHANA03\Cee-Sharp-Projects\Classes and Objects\Classes and Objects\obj\Debug\net6.0\Classes and Objects.AssemblyInfoInputs.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\Classes and Objects\Classes and Objects\obj\Debug\net6.0\Classes and Objects.AssemblyInfo.cs
+C:\Users\CPHANA03\Cee-Sharp-Projects\Classes and Objects\Classes and Objects\obj\Debug\net6.0\Classes and Objects.csproj.CoreCompileInputs.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\Classes and Objects\Classes and Objects\obj\Debug\net6.0\Classes and Objects.dll
+C:\Users\CPHANA03\Cee-Sharp-Projects\Classes and Objects\Classes and Objects\obj\Debug\net6.0\refint\Classes and Objects.dll
+C:\Users\CPHANA03\Cee-Sharp-Projects\Classes and Objects\Classes and Objects\obj\Debug\net6.0\Classes and Objects.pdb
+C:\Users\CPHANA03\Cee-Sharp-Projects\Classes and Objects\Classes and Objects\obj\Debug\net6.0\Classes and Objects.genruntimeconfig.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\Classes and Objects\Classes and Objects\obj\Debug\net6.0\ref\Classes and Objects.dll
