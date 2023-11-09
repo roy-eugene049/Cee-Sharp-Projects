@@ -9,7 +9,7 @@ namespace Classes;
 public class LineOfCreditAccount : BankAccount
 {
     // <ConstructLineOfCredit>
-    public LineOfCreditAccount(string name, decimal initialBalance, decimal creditLimit) : base(name, initialBalance)
+    public LineOfCreditAccount(string name, decimal initialBalance, decimal creditLimit) : base(name, initialBalance, -creditLimit)
     {
 
     }

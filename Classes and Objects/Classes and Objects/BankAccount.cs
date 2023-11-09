@@ -55,18 +55,18 @@ public class BankAccount
         _allTransactions.Add(deposit);
     }
 
+    // <RefactoredMakeWithdrawal>
     public void MakeWithdrawal(decimal amount, DateTime date, string note)
     {
         if (amount <= 0)
         {
             throw new ArgumentOutOfRangeException(nameof(amount), "Amount of withdrawal must be positive");
         }
-        if (Balance - amount < 0)
-        {
-            throw new InvalidOperationException("Not sufficient funds for this withdrawal");
-        }
-        var withdrawal = new Transaction(-amount, date, note);
+        Transaction? overdraftTransaction = CheckWithdrawalLimit(Balance - amount < _minimumBalance);
+        Transaction? withdrawal = new(-amount, date, note);
         _allTransactions.Add(withdrawal);
+        if (overdraftTransaction != null)
+            _allTransactions.Add(overdraftTransaction);
     }
 
     public string GetAccountHistory()
