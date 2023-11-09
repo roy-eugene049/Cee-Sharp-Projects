@@ -69,6 +69,18 @@ public class BankAccount
             _allTransactions.Add(overdraftTransaction);
     }
 
+    protected virtual Transaction? CheckWithdrawalLimit(bool isOverdrawn)
+    {
+        if (isOverdrawn)
+        {
+            throw new InvalidOperationException("Not sufficient funds for this withdrawal");
+        }
+        else
+        {
+            return default;
+        }
+    }
+
     public string GetAccountHistory()
     {
         var report = new System.Text.StringBuilder();
