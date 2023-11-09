@@ -27,22 +27,22 @@ public class BankAccount
         }
     }
 
-    public BankAccount(string name, decimal initialBalance)
-    {
-        //this.Owner = name;
-        //this.Balance = initialBalance;
-        // The this qualifier is only required when a local variable or parameter has the same name as that field or property. 
+    // <ConstructorModifications>
+    private readonly decimal _minimumBalance;
 
-        
+    public BankAccount(string name, decimal initialBalance) : this(name, initialBalance, 0) { }
+
+    public BankAccount(string name, decimal initialBalance, decimal minimumBalance)
+    {
         Number = s_accountNumberSeed.ToString();
         s_accountNumberSeed++;
 
         Owner = name;
-        MakeDeposit(initialBalance, DateTime.Now, "Initial balance");
-
-        //The accountNumberSeed is a private static field and thus has the s_ prefix as per C# naming conventions.
-        //The s denoting static and _ denoting private field.
+        _minimumBalance = minimumBalance;
+        if (initialBalance > 0)
+            MakeDeposit(initialBalance, DateTime.Now, "Initial balance");
     }
+    // </ConstructorModifications>
 
     private List<Transaction> _allTransactions = new List<Transaction>();
     public void MakeDeposit(decimal amount, DateTime date, string note)
@@ -83,4 +83,11 @@ public class BankAccount
 
         return report.ToString();
     }
+
+    // <DeclareMonthEndTransactions>
+    public virtual void PerformMonthEndTransactions() 
+    { 
+
+    }
+    // </DeclareMonthEndTransactions>
 }
