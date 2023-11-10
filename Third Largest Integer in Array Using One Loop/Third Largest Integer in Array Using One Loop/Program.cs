@@ -4,7 +4,13 @@ class Program
 {
     static void Main(string[] args)
     {
+        Console.WriteLine("Enter integers separated by spaces:");
+        string userInput = Console.ReadLine();
 
+        // Split the input string into an array of integers
+        int[] intArray = Array.ConvertAll(userInput.Split(' '), int.Parse);
+
+        FindthirdLargeInArray(intArray);
     }
 
     internal static void FindthirdLargeInArray(int[] arr)
@@ -31,6 +37,6 @@ class Program
                 max3 = i;
             }
         }
-        Console.WriteLine(max3); ;
+        Console.WriteLine("Third largest integer in the array: " + max3); 
     }
 }

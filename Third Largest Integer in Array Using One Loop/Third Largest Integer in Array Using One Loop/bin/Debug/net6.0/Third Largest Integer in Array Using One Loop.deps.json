@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Third Largest Integer in Array Using One Loop/1.0.0": {
+        "runtime": {
+          "Third Largest Integer in Array Using One Loop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Third Largest Integer in Array Using One Loop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
