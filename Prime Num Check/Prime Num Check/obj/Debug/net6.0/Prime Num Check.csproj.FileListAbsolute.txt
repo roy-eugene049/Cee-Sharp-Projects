@@ -1,0 +1,14 @@
+C:\Users\CPHANA03\Cee-Sharp-Projects\Prime Num Check\Prime Num Check\bin\Debug\net6.0\Prime Num Check.exe
+C:\Users\CPHANA03\Cee-Sharp-Projects\Prime Num Check\Prime Num Check\bin\Debug\net6.0\Prime Num Check.deps.json
+C:\Users\CPHANA03\Cee-Sharp-Projects\Prime Num Check\Prime Num Check\bin\Debug\net6.0\Prime Num Check.runtimeconfig.json
+C:\Users\CPHANA03\Cee-Sharp-Projects\Prime Num Check\Prime Num Check\bin\Debug\net6.0\Prime Num Check.dll
+C:\Users\CPHANA03\Cee-Sharp-Projects\Prime Num Check\Prime Num Check\bin\Debug\net6.0\Prime Num Check.pdb
+C:\Users\CPHANA03\Cee-Sharp-Projects\Prime Num Check\Prime Num Check\obj\Debug\net6.0\Prime Num Check.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CPHANA03\Cee-Sharp-Projects\Prime Num Check\Prime Num Check\obj\Debug\net6.0\Prime Num Check.AssemblyInfoInputs.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\Prime Num Check\Prime Num Check\obj\Debug\net6.0\Prime Num Check.AssemblyInfo.cs
+C:\Users\CPHANA03\Cee-Sharp-Projects\Prime Num Check\Prime Num Check\obj\Debug\net6.0\Prime Num Check.csproj.CoreCompileInputs.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\Prime Num Check\Prime Num Check\obj\Debug\net6.0\Prime Num Check.dll
+C:\Users\CPHANA03\Cee-Sharp-Projects\Prime Num Check\Prime Num Check\obj\Debug\net6.0\refint\Prime Num Check.dll
+C:\Users\CPHANA03\Cee-Sharp-Projects\Prime Num Check\Prime Num Check\obj\Debug\net6.0\Prime Num Check.pdb
+C:\Users\CPHANA03\Cee-Sharp-Projects\Prime Num Check\Prime Num Check\obj\Debug\net6.0\Prime Num Check.genruntimeconfig.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\Prime Num Check\Prime Num Check\obj\Debug\net6.0\ref\Prime Num Check.dll

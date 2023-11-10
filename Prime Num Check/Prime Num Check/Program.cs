@@ -4,7 +4,24 @@ class Program
 {
     static void Main(string[] args)
     {
+        Console.WriteLine("Enter an integer to check if it's prime:");
+        string input = Console.ReadLine();
 
+        if (int.TryParse(input, out int number))
+        {
+            if (FindPrime(number))
+            {
+                Console.WriteLine("Prime");
+            }
+            else
+            {
+                Console.WriteLine("Not Prime");
+            }
+        }
+        else
+        {
+            Console.WriteLine("Invalid input. Please enter a valid integer.");
+        }
     }
 
     internal static bool FindPrime(int number)
