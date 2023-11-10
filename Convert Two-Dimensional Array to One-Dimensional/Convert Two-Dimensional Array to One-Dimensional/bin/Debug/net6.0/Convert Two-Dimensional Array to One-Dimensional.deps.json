@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Convert Two-Dimensional Array to One-Dimensional/1.0.0": {
+        "runtime": {
+          "Convert Two-Dimensional Array to One-Dimensional.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Convert Two-Dimensional Array to One-Dimensional/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
