@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert Two-Dimensional Array to One-Dimensional", "Convert Two-Dimensional Array to One-Dimensional\Convert Two-Dimensional Array to One-Dimensional.csproj", "{113480B7-2026-4756-BCB6-EE8F162FFD92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{113480B7-2026-4756-BCB6-EE8F162FFD92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{113480B7-2026-4756-BCB6-EE8F162FFD92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{113480B7-2026-4756-BCB6-EE8F162FFD92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{113480B7-2026-4756-BCB6-EE8F162FFD92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8ACDA6F4-3164-4340-86CB-26750C3C4F91}
+	EndGlobalSection
+EndGlobal
