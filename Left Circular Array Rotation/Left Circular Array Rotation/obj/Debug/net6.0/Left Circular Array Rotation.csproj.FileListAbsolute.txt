@@ -1,0 +1,14 @@
+C:\Users\CPHANA03\Cee-Sharp-Projects\Left Circular Array Rotation\Left Circular Array Rotation\bin\Debug\net6.0\Left Circular Array Rotation.exe
+C:\Users\CPHANA03\Cee-Sharp-Projects\Left Circular Array Rotation\Left Circular Array Rotation\bin\Debug\net6.0\Left Circular Array Rotation.deps.json
+C:\Users\CPHANA03\Cee-Sharp-Projects\Left Circular Array Rotation\Left Circular Array Rotation\bin\Debug\net6.0\Left Circular Array Rotation.runtimeconfig.json
+C:\Users\CPHANA03\Cee-Sharp-Projects\Left Circular Array Rotation\Left Circular Array Rotation\bin\Debug\net6.0\Left Circular Array Rotation.dll
+C:\Users\CPHANA03\Cee-Sharp-Projects\Left Circular Array Rotation\Left Circular Array Rotation\bin\Debug\net6.0\Left Circular Array Rotation.pdb
+C:\Users\CPHANA03\Cee-Sharp-Projects\Left Circular Array Rotation\Left Circular Array Rotation\obj\Debug\net6.0\Left Circular Array Rotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CPHANA03\Cee-Sharp-Projects\Left Circular Array Rotation\Left Circular Array Rotation\obj\Debug\net6.0\Left Circular Array Rotation.AssemblyInfoInputs.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\Left Circular Array Rotation\Left Circular Array Rotation\obj\Debug\net6.0\Left Circular Array Rotation.AssemblyInfo.cs
+C:\Users\CPHANA03\Cee-Sharp-Projects\Left Circular Array Rotation\Left Circular Array Rotation\obj\Debug\net6.0\Left Circular Array Rotation.csproj.CoreCompileInputs.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\Left Circular Array Rotation\Left Circular Array Rotation\obj\Debug\net6.0\Left Circular Array Rotation.dll
+C:\Users\CPHANA03\Cee-Sharp-Projects\Left Circular Array Rotation\Left Circular Array Rotation\obj\Debug\net6.0\refint\Left Circular Array Rotation.dll
+C:\Users\CPHANA03\Cee-Sharp-Projects\Left Circular Array Rotation\Left Circular Array Rotation\obj\Debug\net6.0\Left Circular Array Rotation.pdb
+C:\Users\CPHANA03\Cee-Sharp-Projects\Left Circular Array Rotation\Left Circular Array Rotation\obj\Debug\net6.0\Left Circular Array Rotation.genruntimeconfig.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\Left Circular Array Rotation\Left Circular Array Rotation\obj\Debug\net6.0\ref\Left Circular Array Rotation.dll

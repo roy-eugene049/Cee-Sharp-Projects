@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Left Circular Array Rotation/1.0.0": {
+        "runtime": {
+          "Left Circular Array Rotation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Left Circular Array Rotation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
