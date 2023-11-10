@@ -1,0 +1,14 @@
+C:\Users\CPHANA03\Cee-Sharp-Projects\Sum of Positive Integer Digits\Sum of Positive Integer Digits\bin\Debug\net6.0\Sum of Positive Integer Digits.exe
+C:\Users\CPHANA03\Cee-Sharp-Projects\Sum of Positive Integer Digits\Sum of Positive Integer Digits\bin\Debug\net6.0\Sum of Positive Integer Digits.deps.json
+C:\Users\CPHANA03\Cee-Sharp-Projects\Sum of Positive Integer Digits\Sum of Positive Integer Digits\bin\Debug\net6.0\Sum of Positive Integer Digits.runtimeconfig.json
+C:\Users\CPHANA03\Cee-Sharp-Projects\Sum of Positive Integer Digits\Sum of Positive Integer Digits\bin\Debug\net6.0\Sum of Positive Integer Digits.dll
+C:\Users\CPHANA03\Cee-Sharp-Projects\Sum of Positive Integer Digits\Sum of Positive Integer Digits\bin\Debug\net6.0\Sum of Positive Integer Digits.pdb
+C:\Users\CPHANA03\Cee-Sharp-Projects\Sum of Positive Integer Digits\Sum of Positive Integer Digits\obj\Debug\net6.0\Sum of Positive Integer Digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CPHANA03\Cee-Sharp-Projects\Sum of Positive Integer Digits\Sum of Positive Integer Digits\obj\Debug\net6.0\Sum of Positive Integer Digits.AssemblyInfoInputs.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\Sum of Positive Integer Digits\Sum of Positive Integer Digits\obj\Debug\net6.0\Sum of Positive Integer Digits.AssemblyInfo.cs
+C:\Users\CPHANA03\Cee-Sharp-Projects\Sum of Positive Integer Digits\Sum of Positive Integer Digits\obj\Debug\net6.0\Sum of Positive Integer Digits.csproj.CoreCompileInputs.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\Sum of Positive Integer Digits\Sum of Positive Integer Digits\obj\Debug\net6.0\Sum of Positive Integer Digits.dll
+C:\Users\CPHANA03\Cee-Sharp-Projects\Sum of Positive Integer Digits\Sum of Positive Integer Digits\obj\Debug\net6.0\refint\Sum of Positive Integer Digits.dll
+C:\Users\CPHANA03\Cee-Sharp-Projects\Sum of Positive Integer Digits\Sum of Positive Integer Digits\obj\Debug\net6.0\Sum of Positive Integer Digits.pdb
+C:\Users\CPHANA03\Cee-Sharp-Projects\Sum of Positive Integer Digits\Sum of Positive Integer Digits\obj\Debug\net6.0\Sum of Positive Integer Digits.genruntimeconfig.cache
+C:\Users\CPHANA03\Cee-Sharp-Projects\Sum of Positive Integer Digits\Sum of Positive Integer Digits\obj\Debug\net6.0\ref\Sum of Positive Integer Digits.dll
