@@ -4,7 +4,14 @@ class Program
 {
     static void Main(string[] args)
     {
+        Console.WriteLine("Enter the elements of the array separated by spaces:");
+        string input = Console.ReadLine();
 
+        // Convert the user input to an array of integers
+        int[] array = Array.ConvertAll(input.Split(' '), int.Parse);
+
+        // Call the RotateLeft method
+        RotateRight(array);
     }
 
     internal static void RotateRight(int[] array)
