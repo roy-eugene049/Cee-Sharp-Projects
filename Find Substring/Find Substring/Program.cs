@@ -23,3 +23,16 @@ class Program
         }
     }
 }
+
+
+/*
+ Outer Loop
+ The outer loop runs from i - 0 to i - n - 1
+ For each i, it represents the starting index of the substring
+
+ Inner Loop
+ The inner loop runs from j - i to j - n - 1
+ For each j, it represents the ending index of the substring
+ The loop constructs a substring by appending characters from s[j] to the 
+ previously constructed characters, forming substrings of increasing length.
+*/
