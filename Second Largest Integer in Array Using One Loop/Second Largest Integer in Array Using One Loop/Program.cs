@@ -4,7 +4,13 @@ class Program
 {
     static void Main(string[] args)
     {
+        Console.WriteLine("Enter unsorted integers separated by spaces:");
+        string userInput = Console.ReadLine();
 
+        // Split the input string into an array of integers
+        int[] intArray = Array.ConvertAll(userInput.Split(' '), int.Parse);
+
+        FindSecondLargeInArray(intArray);
     }
 
     internal static void FindSecondLargeInArray(int[] arr)
@@ -23,6 +29,6 @@ class Program
                 max2 = i;
             }
         }
-        Console.WriteLine(max2); ;
+        Console.WriteLine("Second largest integer in the array is: " + max2); ;
     }
 }
